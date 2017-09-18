@@ -1,0 +1,19 @@
+node = "pass" or (x, y)
+print_node = "pass" or get_node(node)
+log.append(print_node, depth, value, alpha beta)
+
+max(state, node, depth, alpha, beta):
+   if check_end() or depth>cut_off:
+     return get_value(state)
+   v = -inf
+   if not check_valid_moves:
+
+   child = get_child(state)
+   for c in child:
+     log.append(print_node....)
+
+
+
+
+
+
